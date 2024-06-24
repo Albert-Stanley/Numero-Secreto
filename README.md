@@ -1,4 +1,3 @@
-Projeto de Lógica de Programação
 🧠 O que Aprendi
 Durante este projeto, desenvolvi várias habilidades importantes em programação e ferramentas de desenvolvimento. Aqui estão os principais pontos:
 
